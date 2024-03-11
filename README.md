@@ -18,7 +18,7 @@ I'm Bruno Kenji Saito, an enthusiastic Computer Science student with a keen inte
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bksfps&hide_progress=true&theme=transparent)
 
 # Stats
-![Bruno Kenji Saito](https://github-readme-stats.vercel.app/api?username=bksfps&show_icons=true&theme=transparent)
+![Bruno Kenji Saito](https://github-readme-stats.vercel.app/api?username=bksfps&show_icons=true&theme=transparent&rank_icon=github)
 
 
 # Socials
