@@ -14,7 +14,7 @@ I'm Bruno Kenji Saito, an enthusiastic Computer Science student with a keen inte
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bksfps&hide_progress=true_bg_color=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bksfps&hide_progress=true_bgColor=black)
 
 # Stats
 ![Bruno Kenji Saito](https://github-readme-stats.vercel.app/api?username=bksfps&show_icons=true&theme=transparent)
