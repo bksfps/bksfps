@@ -1,5 +1,5 @@
 # Hello 👋
-I'm Bruno Kenji Saito, an enthusiastic Computer Science student with a keen interest in solving complex problems and developing innovative solutions. I'm always eager to learn and grow both personally and professionally.
+I'm Bruno Kenji Saito, Computer Science student with a keen interest in solving complex problems and developing innovative solutions. I'm always eager to learn and grow both personally and professionally.
 
 # Tech
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
