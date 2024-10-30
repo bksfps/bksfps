@@ -12,6 +12,7 @@ Sou Bruno Kenji Saito, estudante de Ciência da Computação com um grande inter
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bksfps&hide_progress=true&theme=transparent)
